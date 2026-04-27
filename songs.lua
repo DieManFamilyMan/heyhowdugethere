@@ -99,6 +99,11 @@ local songs = {
         By = "idk bro",
         Icon = "rbxassetid://85747063158167"
     },
+    ["apoplexy.mp3"] = {
+        Name = "heliopolis",
+        By = "bee hunter",
+        Icon = "rbxassetid://18872171323"
+    },
 }
 
 return songs
